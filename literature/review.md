@@ -26,7 +26,7 @@ Status definitions:
 | ID | Publication | Year | Focus | DOI / Link | Status |
 |---|---|---|---|---|---|
 | 01 | Evaluating machine learning-based intrusion detection systems with explainable AI: enhancing transparency and interpretability | 2025 | ML comparison and XAI on UNSW-NB15 | https://doi.org/10.3389/fcomp.2025.1520741 | Reviewed |
-| 02 | Explainable Intrusion Detection Systems (X-IDS): A Survey of Current Methods, Challenges, and Opportunities | 2022 | Survey of explainable IDS | https://doi.org/10.1109/ACCESS.2022.3216617 | Identified |
+| 02 | Explainable Intrusion Detection Systems (X-IDS): A Survey of Current Methods, Challenges, and Opportunities | 2022 | Survey of explainable IDS | https://doi.org/10.1109/ACCESS.2022.3216617 | Reviewed |
 | 03 | XAI-IDS: Toward Proposing an Explainable Artificial Intelligence Framework for Enhancing Network Intrusion Detection Systems | 2024 | Framework for explaining network IDS | https://doi.org/10.3390/app14104170 | Identified |
 | 04 | E-XAI: Evaluating Black-Box Explainable AI Frameworks for Network Intrusion Detection | 2024 | Evaluation of SHAP and LIME explanations | https://doi.org/10.1109/ACCESS.2024.3365140 | Identified |
 | 05 | Classification and Explanation for Intrusion Detection System Based on Ensemble Trees and SHAP Method | 2022 | Decision Tree, Random Forest and SHAP | https://doi.org/10.3390/s22031154 | Identified |
